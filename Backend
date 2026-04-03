@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Madhavranjan1905/doctor-patient-management.git
+git branch -M main
+git push -u origin main
